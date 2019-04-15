@@ -7,7 +7,7 @@ load("pca_data.RData")
 shinyUI(fixedPage(
 
   # App title ----
-  titlePanel("Mycotype PCA plots"),
+  titlePanel("Fungal Seq PCA plots"),
   h3("Sequencing Run 181107"),
 
   # Sidebar layout with input and output definitions ----
